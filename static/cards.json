@@ -1,0 +1,967 @@
+[
+  {
+    "Card": "Land Agent",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Academic",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Master Baker",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Baker",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Architect",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Berry Picker",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Mendicant",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Master Brewer",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Bread Seller",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Brush Maker",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Thatcher",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Turner",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Head of the",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Family",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Farmer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Fisherman",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Meat-seller",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Field Warden",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Master Forester",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Yeoman",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Farmer",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Undergardener",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Conjurer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Greengrocer",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Storyteller",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Estate",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Manager",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Dock Worker",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Chief",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Chief’s",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Daughter",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Tutor",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Hedge Keeper",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Woodcutter",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Wooden Hut",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Builder",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Hut Builder",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Merchant",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Hobby Farmer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Cook",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Charcoal",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Burner",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Basket Weaver",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Grocer",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Clay Firer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Clay Seller",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Clay",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Deliveryman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Clay Mixer",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Lord of the",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Manor",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Maid",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Mason",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Patron",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Pastor",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Plough Driver",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Plough Maker",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Mushroom",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Collector",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Braggart",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Ratcatcher",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Renovator",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Conservator",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Cattle",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Whisperer",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Seasonal",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Worker",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Shepherd",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Master",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Shepherd",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Reed Collector",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Swineherd",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Stable Hand",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Stablemaster",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Quarryman",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Stone Carrier",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Stonecutter",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Dancer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Stockman",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Potter",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Tenant Farmer",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Animal Keeper",
+    "Players": "4+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Reeve",
+    "Players": "3+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Carpenter",
+    "Players": "1+",
+    "Deck": "E"
+  },
+  {
+    "Card": "Fieldsman",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Well Builder",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Village Elder",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Social Climber",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Harvest Helper",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Field Worker",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Field",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Watchman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Gardener",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Church Warden",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Businessman",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Sycophant",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Clay Digger",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Manservant",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Midwife",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Farm Steward",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Wood Buyer",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Wood Collector",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Hide Farmer",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Juggler",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Chamberlain",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Corn Profiteer",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Cowherd",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Clay Plasterer",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Clay Hut",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Builder",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Bricklayer",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Layabout",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Market Crier",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Milking Hand",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Butcher",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Net Fisherman",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Puppeteer",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Sheep",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Whisperer",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Reeds Buyer",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Pig Breeder",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Pig Catcher",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Groom",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Stone Buyer",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Stone Carver",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Musician",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Cabinetmaker",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Animal Dealer",
+    "Players": "3+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Taster",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Outrider",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Water Carrier",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Fence Builder",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Fencer",
+    "Players": "4+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Fence",
+    "Players": "1+",
+    "Deck": "I"
+  },
+  {
+    "Card": "Deliveryman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Serf",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Adoptive",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Parents",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Casual",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Labourer",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Acrobat",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Wet Nurse",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Educator",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Frame Builder",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Basin Maker",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Organic",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Farmer",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Lazy Student",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Constable",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Manufacturer",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Forester",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Scholar",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Tanner",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Travelling",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Salesman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "House Steward",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Wood",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Deliveryman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Wood",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Distributor",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Hand Waterer",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Smallholder",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Store Clerk",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Storehouse",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Keeper",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Countryman",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Clay Worker",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Lover",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Market",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Woman",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Ploughman",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Brushwood",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Collector",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Cattle Breeder",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Seed Seller",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Sheep Farmer",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Shepherd Boy",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Slaughterman",
+    "Players": "3+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Schnaps",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Distiller",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Wood Carver",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Pig Whisperer",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Stone Breaker",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Veterinarian",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Animal",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Handler",
+    "Players": "",
+    "Deck": ""
+  },
+  {
+    "Card": "Animal Tamer",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Animal Breeder",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Foreman",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Weaver",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Resource Seller",
+    "Players": "1+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Magician",
+    "Players": "4+",
+    "Deck": "K"
+  },
+  {
+    "Card": "Fence Overseer",
+    "Players": "1+",
+    "Deck": "K"
+  }
+]

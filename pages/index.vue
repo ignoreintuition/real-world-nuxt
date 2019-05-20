@@ -1,67 +1,37 @@
 <template>
-  <section class="container">
+  <div class="content">
+    <h1>Cards</h1>
     <div>
-      <logo />
-      <h1 class="title">
-        real-world-nuxt
-      </h1>
-      <h2 class="subtitle">
-        My tremendous Nuxt.js project
-      </h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green"
-          >Documentation</a
-        >
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-          >GitHub</a
-        >
-      </div>
+      <p>
+        This site is designed to allow you to build decks for Uwe Rosenbergs
+        three classic games from his harvest series: Agricola, La Havre, and At
+        the Gates of Loyang. One of the greatest aspects of these games is the
+        ability to play them as a single player experience. In doing so,
+        however, it can often be a challenge to decide the best cards to use to
+        maximize your points. Or, if you want to challenge someone to best your
+        hight score, you migth want to decide on the specific hand to play with
+        as opposed to drafting a hand. This tool allows you to compare / create
+        a hand that maximizing the playing experience.
+      </p>
+      <p>Enjoy</p>
     </div>
-  </section>
+  </div>
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-
 export default {
-  components: {
-    Logo
+  components: {},
+  data: function() {
+    return {}
+  },
+  created: function() {},
+  head: {
+    title: 'Deck Builder'
   }
 }
 </script>
-
 <style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
-}
-
-.subtitle {
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-
-.links {
-  padding-top: 15px;
+.content {
+  margin: 5px;
 }
 </style>

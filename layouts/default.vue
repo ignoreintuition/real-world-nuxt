@@ -2,13 +2,17 @@
   <div id="app">
     <nav-bar />
     <nuxt />
+    <Footer />
   </div>
 </template>
 <script>
 import NavBar from '~/components/NavBar.vue'
+import Footer from '~/components/footer.vue'
+
 export default {
   components: {
-    NavBar
+    NavBar,
+    Footer
   }
 }
 </script>
@@ -20,23 +24,27 @@ html {
 }
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'garamond', sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  background-color: #e39a3b;
 }
 #app {
   box-sizing: border-box;
-  width: 500px;
-  padding: 0 20px 20px;
+  width: 75%;
   margin: 0 auto;
+  background-color: #e8dd8a;
+  border: solid brown;
+  border-width: 10px 10px 0 0;
 }
+
 hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
 }
 a {
-  color: #39b982;
+  color: #dedd85;
   font-weight: 600;
   background-color: transparent;
 }
@@ -52,7 +60,7 @@ h5,
 h6 {
   display: flex;
   align-items: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'garamond', sans-serif;
 }
 h1 {
   font-size: 50px;
@@ -126,7 +134,7 @@ optgroup,
 select,
 textarea {
   display: inline-flex;
-  font-family: 'Open sans', sans-serif;
+  font-family: 'garamond', sans-serif;
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
